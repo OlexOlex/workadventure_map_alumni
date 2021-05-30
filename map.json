@@ -1077,7 +1077,7 @@
         {
          "columns":16,
          "firstgid":321,
-         "image":"..\/tiles\/tilea2.png",
+         "image":"tiles\/tilea2.png",
          "imageheight":384,
          "imagewidth":512,
          "margin":0,
@@ -1470,7 +1470,7 @@
         {
          "columns":16,
          "firstgid":513,
-         "image":"..\/tiles\/tilea3.png",
+         "image":"tiles\/tilea3.png",
          "imageheight":256,
          "imagewidth":512,
          "margin":0,
@@ -1484,7 +1484,7 @@
         {
          "columns":16,
          "firstgid":641,
-         "image":"..\/tiles\/tilea4.png",
+         "image":"tiles\/tilea4.png",
          "imageheight":480,
          "imagewidth":512,
          "margin":0,
@@ -2975,7 +2975,7 @@
         {
          "columns":8,
          "firstgid":881,
-         "image":"..\/tiles\/tilea5.png",
+         "image":"tiles\/tilea5.png",
          "imageheight":512,
          "imagewidth":256,
          "margin":0,
@@ -2989,7 +2989,7 @@
         {
          "columns":16,
          "firstgid":1009,
-         "image":"..\/tiles\/tileb.png",
+         "image":"tiles\/tileb.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -4714,7 +4714,7 @@
         {
          "columns":16,
          "firstgid":1265,
-         "image":"..\/tiles\/tilec.png",
+         "image":"tiles\/tilec.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -4747,7 +4747,7 @@
         {
          "columns":16,
          "firstgid":1521,
-         "image":"..\/tiles\/tiled.png",
+         "image":"tiles\/tiled.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -5455,7 +5455,7 @@
         {
          "columns":16,
          "firstgid":1777,
-         "image":"..\/tiles\/tilee.png",
+         "image":"tiles\/tilee.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
